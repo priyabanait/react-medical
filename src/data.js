@@ -33,7 +33,7 @@ const list = [
     price: 20,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Q8fnd2lb0wIRHqfu7opxljYIND770ZA1Yw&usqp=CAU",
     quantity: 10,
-    product:1
+    stock:1
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const list = [
     price: 80,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldIIlXx6cuPQXoy1qo-kdOVezxAYhL-YwAw&usqp=CAU",
     quantity: 13,
-    product:1
+    stock:1
   },
   {
     id: 6,
